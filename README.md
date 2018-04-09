@@ -7,6 +7,8 @@ Nous utiliserons l'approche MVC vue en cours pour l'organisation du projet.
 ## Le projet
 Pour un meilleur suivi de projet 
   - Créer un repository pour le projet(Nom du projet débutant par une majuscule
+  - Votre repertoire pour le projet contiendra un repertoire Db qui contiendra le script pour la base de donnée facturation  
+  - Créer un branche de travail, lorsque vous êtes satisfait du résultat, faites un merge avec la branche master
   - On utilisera la convention camelCase pour la denomination des variables
   - Vous pouvez utiliser Bootstrap et son super CSS lié aux tableaux pour faire votre application.
 
@@ -20,6 +22,7 @@ Pour un meilleur suivi de projet
 | tel_personne |
 | email_personne |
 
+
 | societes      |
 | ------------- |
 |  id_societe |
@@ -27,6 +30,7 @@ Pour un meilleur suivi de projet
 | adresse_societe |
 | tel_societe |
 | tva_societe  |
+
 
 | factures |
 | ------------- |
