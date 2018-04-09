@@ -1,8 +1,14 @@
 # Facturation
-## An app JP RANU
+## An app Jean Christian RANU
 
-Afin d'approfondir les notions de bases de données, tables, requêtes SQL et surtout PHP OO nous allons créer une application de facturation pour Jean Pascal Ranu.
+Afin d'approfondir les notions de bases de données, tables, requêtes SQL et surtout PHP OO nous allons créer une application de facturation pour JC Ranu.
 Nous utiliserons l'approche MVC vue en cours pour l'organisation du projet.
+
+## Le projet
+Pour un meilleur suivi de projet 
+  - Créer un repository pour le projet(Nom du projet débutant par une majuscule
+  - On utilisera la convention camelCase pour la denomination des variables
+  - Vous pouvez utiliser Bootstrap et son super CSS lié aux tableaux pour faire votre application.
 
 ## Base de données facturation
 
@@ -35,9 +41,9 @@ Nous utiliserons l'approche MVC vue en cours pour l'organisation du projet.
 
 **Notes**
 
-- Les numéros de facture peuvent comporter des chiffres et des lettres. (on y stockera les factures clients et fournisseurs)
-- Type : la société peut être un fournisseur ou un client, pas les deux.
-- Concernant les relations entre les tables, il faudra :
+  - Les numéros de facture peuvent comporter des chiffres et des lettres. (on y stockera les factures clients et fournisseurs)
+  - Type : la société peut être un fournisseur ou un client, pas les deux.
+  - Concernant les relations entre les tables, il faudra :
   - societes---type
   - societes---factures
   - personnes---factures
@@ -60,9 +66,9 @@ Avec cette base de données, on va faire une petite application (comme un site w
 ### page d'accueil
 Affichera :
 - un message d'accueil pour Jean-Christian Ranu
-- la liste des 5 dernières factures, classées par date (chaque facture renvoie avec un lien vers sa page detailfacture)
-- la liste des 5 dernières personnes, encodées dans la base de données (chaque personne renvoie avec un lien vers sa page detailcontact)
-- la liste des 5 dernières entreprises, encodées dans la base de données (chaque société renvoie à l'aide d'un lien vers sa page detailsociete)
+- la liste des 3 dernières factures, classées par date (chaque facture renvoie avec un lien vers sa page detailfacture)
+- la liste des 3 dernières personnes, encodées dans la base de données (chaque personne renvoie avec un lien vers sa page detailcontact)
+- la liste des 3 dernières entreprises, encodées dans la base de données (chaque société renvoie à l'aide d'un lien vers sa page detailsociete)
 - un lien vers la page fournisseurs
 - un lien vers la page clients
 
@@ -113,8 +119,7 @@ Affichera les informations suivantes selon la personne de contact choisie :
 - adresse de la société
 - la liste des factures liées à la personne
 
-### BONUS
-Vous pouvez utiliser Bootstrap et son super CSS lié aux tableaux pour faire votre application.
+
 
 Réaliser un petit design sympa pour notre ami Jean-Christian. Rappelez-vous que notre ami est comptable à la COGIP depuis plus de 20 ans !
 Pour vous aider voici JP.
