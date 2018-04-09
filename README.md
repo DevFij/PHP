@@ -117,6 +117,6 @@ Affichera les informations suivantes selon la personne de contact choisie :
 Vous pouvez utiliser Bootstrap et son super CSS lié aux tableaux pour faire votre application.
 
 Réaliser un petit design sympa pour notre ami Jean-Christian. Rappelez-vous que notre ami est comptable à la COGIP depuis plus de 20 ans !
-
+Pour vous aider voici JP.
 ![Jean-Christian Ranu de la COGIP](cogip_badge.jpg)# PHP
 PHP
