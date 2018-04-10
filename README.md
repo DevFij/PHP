@@ -3,7 +3,7 @@
 
 Afin d'approfondir les notions de bases de données, tables, requêtes SQL et surtout PHP OO nous allons créer une application de facturation pour JC Ranu.
 Nous utiliserons l'approche MVC vue en cours pour l'organisation du projet.
-
+salim ajout
 ## Le projet
 Pour un meilleur suivi de projet 
   - Créer un repository pour le projet(Nom du projet débutant par une majuscule
