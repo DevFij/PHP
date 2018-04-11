@@ -14,8 +14,8 @@ Pour un meilleur suivi de projet
 
 ## Base de données facturation
 
-| personnes      | |etage |
-| ------------- | | ----- |
+| personnes      |
+| ------------- |
 | id_personne     |
 | nom_personne       |
 | prenom_personne |
