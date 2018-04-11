@@ -1,4 +1,4 @@
-# Facturation
+ # Facturation
 ## An app Jean Christian RANU
 
 Afin d'approfondir les notions de bases de données, tables, requêtes SQL et surtout PHP OO nous allons créer une application de facturation pour JC Ranu.
@@ -14,7 +14,7 @@ Pour un meilleur suivi de projet
 
 ## Base de données facturation
 
-| personnes      |
+| personnes      | etage |
 | ------------- |
 | id_personne     |
 | nom_personne       |
