@@ -51,8 +51,10 @@ En ouvrant le dossier projet crée le contenu ressemble à :
         }
     }
     
-    ## lancez xdebug
-    Sur sublime, cliquez sur tools xdebug -> Start debugging
     
-    ## breakpoints
-    Ecrire un bout de scripts avec trois variables. Utiliser xdebudg pur voir leur evolution.
+    
+## lancez xdebug
+Sur sublime, cliquez sur tools xdebug -> Start debugging
+   
+ ## breakpoints
+ Ecrire un bout de script avec trois variables. Utiliser xdebudg pur voir leur evolution.
